@@ -1,0 +1,7 @@
+<aside>
+{% for page in collections.all %}
+{{ page.url }}<br>
+ {% endfor %}
+</aside>
+
+<div class="hiya">{{ content | safe }}</div>

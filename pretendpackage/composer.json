@@ -1,0 +1,11 @@
+{
+    "name": "mike/pretendpackage",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Mike Street",
+            "email": "mikestreety@gmail.com"
+        }
+    ],
+    "require": {}
+}
